@@ -24,3 +24,5 @@ Write a classifier function that takes a string of code and returns a guess for 
 Testing your classifier
 
 The test/ directory contains code snippets. The file test.csv contains a list of the file names in the test directory and the language of each snippet. Use this set of snippets to test your classifier.
+
+To see my findings visit this link to the Jupyter Notebook: https://github.com/tarakdavis/programming-language-classifier/blob/master/polyglot.ipynb
